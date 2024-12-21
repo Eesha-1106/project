@@ -128,7 +128,6 @@ project.html:
                     </div>
                 </div>
             </div>
-        </div>
       </div>
     </div>
     <div id="contact" class="contacting">
